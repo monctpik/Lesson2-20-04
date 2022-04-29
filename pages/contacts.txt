@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Timofey Belskiy</title>
+    </head>
+	<body>
+		<h1>Тимофей Бельский</h1>
+		<p>And we can back on main page 2 variants: <a href/../index.html>1: click here</a></p>
+	</body>
